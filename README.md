@@ -16,7 +16,7 @@ B. APA YANG DIKERJAKAN?
 C. JUDUL
 - project mata kuliah Pemrograman Berorientasi Objek ini yang berjudul "kelas Hotel" dengan gambar terambil dari link: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbgIhtrVVCk8mEs5x_NekbJOE8kmdtghY1jVgWv-V61HJTUYjaQkF-7cHdnC_f8BioqiSUpm2NM0FRgP-zM3BwlT4mn6fAYxrDPyuXwemK_uR6nqXvhy8yPsuURT4umhL1Wb-jWk9eQk/s1600/Picture11.png
 
-D. KETERANGAN:
+D. KETERANGAN
 - project yang saya buat ada beberapa nomor pada cara yang terbagi menjadi
 1. classes pada nomor 1 memiliki 2 objek Hotel yang terbagi menjadi klasifikasi hotel bintang dan persyaratan hotel bintang. persyaratan hotel bintang itu mendeskripsikan ciri-ciri pada ruangan kelas hotel bintang (contoh: kelas menengah klasifikasi hotel bintang 3 dengan persyaratan hotel bintang 3 yaitu minimum jumlah 30 kamar standar, 2 kamar suit dan kamar mandi dalam, luas kamar standar minimum 24m² dan luas kamar suit minimum 48m²).
 2. classes dan object pada nomor 2 memiliki 5 kelompok Hotel. terbagi menjadi kelas, klasifikasi hotel bintang, dan persyaratan hotel bintang.
